@@ -38,7 +38,7 @@ function hideOverlay() {
         renderer: 'svg', // ou 'canvas' se preferir
         loop: true,
         autoplay: true,
-        path: 'https://reinaldoflutterflow.github.io/preloaderJSLottie/JVGIsylS3F2-3.json',
+        path: 'https://reinaldoflutterflow.github.io/preloaderJSLottie/lotiesanimation.json',
     });
 }
 
